@@ -1,8 +1,8 @@
-!videos
 videos/*
-!trechos_nao_conformes
 trechos_nao_conformes/*
 BlockIa/
 besu/logs/*
 node_modules
 besu/.quorumDevQuickstart.lock
+!videos
+!trechos_nao_conformes
