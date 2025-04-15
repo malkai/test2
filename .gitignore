@@ -1,4 +1,5 @@
-
+videos/*
+trechos_nao_conformes/*
 BlockIa/
 besu/logs/*
 node_modules
