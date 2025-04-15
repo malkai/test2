@@ -1,8 +1,4 @@
-videos/*
-trechos_nao_conformes/*
 BlockIa/
 besu/logs/*
 node_modules
 besu/.quorumDevQuickstart.lock
-!videos/.gitkeep
-!trechos_nao_conformes/.gitkeep
